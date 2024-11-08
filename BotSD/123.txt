@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN="7638086160:AAEp7NU9tuLzfv57FpLJRjfQtVTpJD5azMA"#"7695071714:AAF-InbUTpSss5q7OeN7JptWg1RlVjqIbn8"
+TELEGRAM_CHANNEL_ID="@For_MyTest"#"@Science_Digital"
+SOURCE_URL= https://blog.skillfactory.ru/tehnologii-buduschego/
+NEWS_CHECK_INTERVAL=1  # Интервал в минутах
+TOKEN_API_GEMENI="AIzaSyA61snlj_1CgUiRWZm7ZeF2d_SSkpguR1I"
