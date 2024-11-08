@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN="7695071714:AAF-InbUTpSss5q7OeN7JptWg1RlVjqIbn8"
+TELEGRAM_CHANNEL_ID="@Science_Digital"
+SOURCE_URL= https://new-science.ru/
+NEWS_CHECK_INTERVAL=60  # Интервал в минутах
+TOKEN_API_GEMENI="AIzaSyA61snlj_1CgUiRWZm7ZeF2d_SSkpguR1I"
